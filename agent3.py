@@ -11,7 +11,6 @@ from langgraph.prebuilt import ToolNode
 
 
 
-load_dotenv()
 
 load_dotenv()
 key=os.getenv("cohere_api_key")
